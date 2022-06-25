@@ -1,5 +1,9 @@
 let num = parseInt(prompt('Pone un numerown del 1 al 10'));
+alert('ahora mira la consola');
+
 
 for(i = 1; num <= 25; num++){
     console.log(`${num} / ${i} = ${num / i} `)
 }
+
+
